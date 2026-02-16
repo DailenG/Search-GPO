@@ -3,7 +3,7 @@
     RootModule           = 'Search-GPO.psm1'
 
     # Version number of this module.
-    ModuleVersion        = '1.0.1'
+    ModuleVersion        = '1.0.2'
 
     # Supported PSEditions
     CompatiblePSEditions = @('Desktop', 'Core')
@@ -55,10 +55,10 @@ It can search for strings in GPO Names, Metadata (XML), and internal script file
             Tags       = @('Windows', 'GPO', 'Search', 'Dailen', 'WideData')
 
             # A URL to the license for this module.
-            LicenseUri = 'https://github.com/DailenG/PS/tree/main/modules/Search-GPO/LICENSE'
+            LicenseUri = 'https://github.com/DailenG/Search-GPO/blob/master/LICENSE'
 
             # A URL to the main website for this project.
-            ProjectUri = 'https://github.com/DailenG/PS/tree/main/modules/Search-GPO'
+            ProjectUri = 'https://github.com/DailenG/Search-GPO'
 
             # A URL to an icon representing this module.
             IconUri    = 'https://wdc.help/icons/wam.png'
